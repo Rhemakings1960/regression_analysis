@@ -6,7 +6,7 @@ Goal: Predict `Sales` based on aacross `TV`, `Radio`, and `Social Media`.
 
 **Key findings:**
 - **R² = 0.996**: Model explains 99.6% of sales variance
-- **TV  has the highest impact on Sales
+- TV  has the highest impact on Sales
 - **Recommendation**: Allocate more budget to TV advertising for max ROI
 
 **Files:**
