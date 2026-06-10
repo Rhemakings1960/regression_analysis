@@ -1,12 +1,12 @@
 # Marketing Sales Regression Analysis
 
 ### **Project Overview**
-Multiple Linear Regression analysis for Darey.io assignment.  
-Goal: Predict `Sales` based on advertising spend across `TV`, `Radio`, and `Newspaper` channels.
+Simple Linear Regression analysis for Darey.io assignment.  
+Goal: Predict `Sales` based on aacross `TV`, `Radio`, and `Social Media`.
 
 **Key findings:**
 - **R² = 0.996**: Model explains 99.6% of sales variance
-- **TV ** has the highest impact on Sales
+- **TV  has the highest impact on Sales
 - **Recommendation**: Allocate more budget to TV advertising for max ROI
 
 **Files:**
