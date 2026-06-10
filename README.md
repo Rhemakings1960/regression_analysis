@@ -9,10 +9,10 @@ Goal: Predict `Sales` based on aacross `TV`, `Radio`, and `Social Media`.
 - TV  has the highest impact on Sales
 - **Recommendation**: Allocate more budget to TV advertising for max ROI
 
- ## ** Model results**
+ ##  Model results
   Sales = -0.109 + 3.523*TV + 0.107*Radio + 0.068*Social_Media
 
- ## **Assumtions**
+ ## **Assumptions**
   - Normality: Q-Q plot shows residuals follow the line, so normality assumption holds
 - Homoscedasticity: Residuals vs Fitted plot shows constant variance around y=0
 
