@@ -9,6 +9,13 @@ Goal: Predict `Sales` based on aacross `TV`, `Radio`, and `Social Media`.
 - TV  has the highest impact on Sales
 - **Recommendation**: Allocate more budget to TV advertising for max ROI
 
+  ** Model result**
+  Sales = -0.109 + 3.523*TV + 0.107*Radio + 0.068*Social_Media
+
+  **Assumtions**
+  - Normality: Q-Q plot shows residuals follow the line, so normality assumption holds
+- Homoscedasticity: Residuals vs Fitted plot shows constant variance around y=0
+
 **Files:**
 - `Regression_analysis.ipynb` - Jupyter notebook with EDA, model training, evaluation
 - `marketing.csv` - Dataset with TV, Radio, Social Media, Sales columns
