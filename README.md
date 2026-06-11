@@ -2,15 +2,15 @@
 
 ### **Project Overview**
 Simple Linear Regression analysis for Darey.io assignment.  
-Goal: Predict `Sales` based on aacross `TV`, `Radio`, and `Social Media`.
+Goal: Recommend the marketing channel with the strongest ROI impact, explain model results clearly to a non-technical stakeholder`.
 
 **Key findings:**
-- **R² = 0.996**: Model explains 99.6% of sales variance
-- TV  has the highest impact on Sales
-- **Recommendation**: Allocate more budget to TV advertising for max ROI
+- **R² = 0.999**: Model explains 99.6% of sales variance
+- TV  has a high impact on Sales
+- TV and sales met key model assunptions ( linearity, normality and homoscedasticity.
+- **Recommendation**: Allocate more budget to TV  for max ROI.
 
- ##  Model results
-  Sales = -0.109 + 3.523*TV + 0.107*Radio + 0.068*Social_Media
+ 
 
  ## **Assumptions**
   - Normality: Q-Q plot shows residuals follow the line, so normality assumption holds
